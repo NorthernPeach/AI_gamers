@@ -3,3 +3,4 @@ Pandas
 tensorflow
 fnmatch
 numpy
+pyinstaller   # For .exe 
