@@ -14,6 +14,19 @@
 # Результаты
 (графики тренировки модели)
 
+# Run the program 
+Необходимо установить pyinstaller, после чего запустить команду
+
+== pyinstaller --noconfirm --onedir --windowed --icon "~/ui_qt_bowhead_whale_ai_gamers/ico3.ico" 
+--add-data "~/ui_qt_bowhead_whale_ai_gamers/ui.py;." 
+--add-data "~/ui_qt_bowhead_whale_ai_gamers/ico3.ico;." 
+--add-data "~/ui_qt_bowhead_whale_ai_gamers/hXception.h5;." 
+--hidden-import "h5py" 
+--hidden-import "h5py.defs" 
+--hidden-import "h5py.utils" 
+--hidden-import "h5py.h5ac" 
+--hidden-import "h5py._proxy"  "~/ui_qt_bowhead_whale_ai_gamers/Ai Games Bowhead whale.py"==
+
 # AI геймеры
 **ML engineers**
 * **Эдуард Северьянов** 
