@@ -12,7 +12,7 @@
 * PyQt5
 
 # Результаты
-![](https://github.com/NorthernPeach/AI_gamers/blob/main/modele4.jpg)
+![image](https://user-images.githubusercontent.com/112272101/201511363-82c4d662-8daf-4f82-afcb-e8ea73dccb14.png)
 (графики тренировки модели)
 
 # Run the program 
