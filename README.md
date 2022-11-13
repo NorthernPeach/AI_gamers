@@ -19,8 +19,8 @@
 
 pyinstaller --noconfirm --onedir --windowed --icon "~ /ui_qt_bowhead_whale_ai_gamers/ico3.ico" 
 --add-data "~ /ui_qt_bowhead_whale_ai_gamers/ui.py;." 
---add-data "~/ui_qt_bowhead_whale_ai_gamers/ico3.ico;." 
---add-data "~/ui_qt_bowhead_whale_ai_gamers/hXception.h5;." 
+--add-data "~ /ui_qt_bowhead_whale_ai_gamers/ico3.ico;." 
+--add-data "~ /ui_qt_bowhead_whale_ai_gamers/hXception.h5;." 
 --hidden-import "h5py" 
 --hidden-import "h5py.defs" 
 --hidden-import "h5py.utils" 
