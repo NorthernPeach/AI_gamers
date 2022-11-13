@@ -12,6 +12,7 @@
 * PyQt5
 
 # Результаты
+![](https://github.com/NorthernPeach/AI_gamers/blob/main/modele4.jpg)
 (графики тренировки модели)
 
 # Run the program 
